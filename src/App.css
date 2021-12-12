@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+body {
+  background-color: #daeaf6;
+  font-family: "Roboto Slab", serif;
+}
+.img {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+  top: -20px;
+  border-radius: 5px;
+  box-shadow: 3.4px 3.4px 2.7px rgba(0, 0, 0, 0.034),
+    8.7px 8.7px 6.9px rgba(0, 0, 0, 0.049),
+    17.7px 17.7px 14.2px rgba(0, 0, 0, 0.061),
+    36.5px 36.5px 29.2px rgba(0, 0, 0, 0.076),
+    100px 100px 80px rgba(0, 0, 0, 0.11);
+  background-color: #f8f8f8;
+}
+.card {
+  margin: 0 auto;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 3.4px 3.4px 2.7px rgba(0, 0, 0, 0.034),
+    8.7px 8.7px 6.9px rgba(0, 0, 0, 0.049),
+    17.7px 17.7px 14.2px rgba(0, 0, 0, 0.061),
+    36.5px 36.5px 29.2px rgba(0, 0, 0, 0.076),
+    100px 100px 80px rgba(0, 0, 0, 0.11);
+  background-color: #f8f8f8;
+}
+.btn-round {
+  border-radius: 10px;
+  font-size: 14px;
+  margin-bottom: 15px;
+  background-color: #388186;
+  color: white;
+  padding: 10px;
+  width: 75%;
+  margin-top: 15px;
+}
+.btn-round:hover {
+  color: white;
+  box-shadow: none;
+}
+.btn-round:focus {
+  color: white;
+  box-shadow: none;
+}
+
+.btn-remove {
+  border-radius: 7px;
+  font-size: 12px;
+  background-color: "#e84a5f";
+  color: white;
+  padding: 7px;
+  width: 85%;
+}
+.btn-pay {
+  border-radius: 10px;
+  font-size: 14px;
+  margin-bottom: 15px;
+  background-color: #388186;
+  color: white;
+  padding: 10px;
+  width: 75%;
+  margin-top: 15px;
+}
+.cartimg {
+  border-radius: 8px;
+  box-shadow: 3.4px 3.4px 2.7px rgba(0, 0, 0, 0.034),
+    8.7px 8.7px 6.9px rgba(0, 0, 0, 0.049),
+    17.7px 17.7px 14.2px rgba(0, 0, 0, 0.061),
+    36.5px 36.5px 29.2px rgba(0, 0, 0, 0.076),
+    100px 100px 80px rgba(0, 0, 0, 0.11);
+  background-color: #f8f8f8;
+  color: #252422;
+  margin-bottom: 20px;
+  position: relative;
+  z-index: 1;
+}
+.paycard {
+  border-radius: 8px;
+  box-shadow: 3.4px 3.4px 2.7px rgba(0, 0, 0, 0.034),
+    8.7px 8.7px 6.9px rgba(0, 0, 0, 0.049),
+    17.7px 17.7px 14.2px rgba(0, 0, 0, 0.061),
+    36.5px 36.5px 29.2px rgba(0, 0, 0, 0.076),
+    100px 100px 80px rgba(0, 0, 0, 0.11);
+  background-color: #f8f8f8;
+  color: #252422;
+  margin-bottom: 20px;
+  position: relative;
+  z-index: 1;
+}
+.btn-pay:hover {
+  color: white;
+  box-shadow: none;
+  background-color: #388186;
+}
+.empty {
+  margin-top: 100px;
+}
