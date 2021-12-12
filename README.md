@@ -15,6 +15,10 @@ https://shopping-reactapp.netlify.app
 
 ## Project Screenshots
 
+![screenshot](https://user-images.githubusercontent.com/61618123/145707137-afc39969-6016-4e92-b7e1-135ca0058098.jpg)
+
+
+
 ## Installation
 
 Clone down this repository. You will need ``` node``` and ```npm``` installed globally on your machine.
