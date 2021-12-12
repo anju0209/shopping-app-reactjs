@@ -18,7 +18,6 @@ https://shopping-reactapp.netlify.app
 ![screenshot](https://user-images.githubusercontent.com/61618123/145707137-afc39969-6016-4e92-b7e1-135ca0058098.jpg)
 
 
-
 ## Installation
 
 Clone down this repository. You will need ``` node``` and ```npm``` installed globally on your machine.
@@ -70,7 +69,7 @@ Start the server
 ## Reflection
 This was a  project built during 3rd year of Engineering college as a personal project. Project goal was to understand ReactJS ```Hooks``` ,  ```useState``` ,  ```useEffect ```, ```axios``` concepts and how make a ```web requests``` .
 
-Here we used a ```PEXELS API``` to fetch the pitures from API and make a ```web requests``` from a ```ReactJS Application```
+Here we have used a ```PEXELS API``` to fetch the pitures from API and make a ```web requests``` from a ```ReactJS Application```
 ## API Reference
 
 #### API used in this project
